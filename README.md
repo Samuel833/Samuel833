@@ -1,4 +1,4 @@
-# Hi I am Segun and I am currently learning JavaScript 
+
 <!--
 **Samuel833/Samuel833** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
